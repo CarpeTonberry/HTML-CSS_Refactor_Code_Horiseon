@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* WHERE DO I PUT THESE??? */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -17,7 +16,6 @@ a {
 p {
     font-size: 16px;
 }
-/* WHERE DO I PUT THESE??? */
 
 /* Header Style Start */
 .header {
@@ -110,7 +108,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Content Style End */
+/*** Content Style End ***/
 
 /* Benefits Style Start */
 .benefits {
