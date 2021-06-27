@@ -64,4 +64,4 @@ Keep DRY in mind by reducing redundant code
 
 Group likewise code together to keep format clean and consistent
 
-Use comments to help organize and explain how the code is working
+Use comments to help organize and explain how sections work
